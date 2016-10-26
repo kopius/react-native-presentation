@@ -1,6 +1,6 @@
 # Understanding React Native
 
-[Slides](https://docs.google.com/presentation/d/10H04zEnsIncDU56tCQok3Xf_5QRJ0SSQTgWftMReSEw/edit?usp=sharing)
+## [Slides](https://docs.google.com/presentation/d/10H04zEnsIncDU56tCQok3Xf_5QRJ0SSQTgWftMReSEw/edit?usp=sharing)
 
 
 ## What is React Native?
