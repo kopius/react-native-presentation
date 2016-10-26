@@ -15,9 +15,11 @@
 Who:
 -   developed by Facebook
 -   over 1,000 contributors since its release
+
 When:
 -   released in January 2015
 -   over 8,000 commits and 120 releases since then
+
 Why:
 -   to fundamentally change how native mobile development is done
 -   to allow developers to write UIs as a pure function of their state
@@ -26,13 +28,13 @@ Why:
 ## What does React Native do?
 
 -   React Native lets you write native mobile apps using only JavaScript (or TypeScript, or anything that compiles to JavaScript).
--   You don't have to translate your app into Java (for Android), Swift (for iOS), or any other language to get cross-platform compatibility
+-   You don't have to translate your app into Java (for Android), Swift/Objective C (for iOS), or any other language to get cross-platform compatibility
 
 
 ## What is "native mobile development"?
 -   Native mobile development means writing apps in the native language of the platform or device they're going to run on
--   This is a *good* thing, since it lets you take advantage of features that are specific to that platform
--   This is a *hard* thing, because you might want your app to work on a lot of platforms, and learning all those languages is hard
+-   This is a **good** thing, since it lets you take advantage of features that are specific to that platform
+-   This is a **hard** thing, because you might want your app to work on a lot of platforms, and learning all those languages is hard
 -   React Native lets you do the good thing without it having to be so hard!
 
 
